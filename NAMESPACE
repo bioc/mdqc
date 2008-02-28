@@ -1,0 +1,7 @@
+export(mdqc, prcomp.robust)
+importFrom(cluster, pam)
+importFrom(MASS, cov.mcd, cov.mve)
+S3method(print, mdqc)
+S3method(summary, mdqc)
+S3method(plot, mdqc)
+
