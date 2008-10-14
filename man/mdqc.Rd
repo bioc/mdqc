@@ -142,7 +142,7 @@ mdqc(x, method=c("nogroups", "apriori", "global", "cluster", "loading"),
   we translated into R to compute the multivariate S-estimator}
 
 
-\seealso{\code{\link{prcomp.robust}},\code{\link{pam}},
+\seealso{\code{\link{prcomp.robust}},\code{\link[cluster]{pam}},
   \code{mahalanobis}, \code{\link{allQC}}}
 
 \examples{
