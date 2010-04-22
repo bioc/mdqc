@@ -1,7 +1,7 @@
 Package: mdqc
 Type: Package
 Title: Mahalanobis Distance Quality Control for microarrays
-Version: 1.10.0
+Version: 1.11.0
 Date: 2008-02-27
 Author: Justin Harrington
 Maintainer: Gabriela Cohen-Freue <gcohen@mrl.ubc.ca> 
