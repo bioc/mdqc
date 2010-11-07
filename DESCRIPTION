@@ -9,3 +9,4 @@ Description: MDQC is a multivariate quality assessment method for microarrays ba
 Depends: R (>= 2.2.1), cluster, MASS
 bioViews: Microarray,QualityControl
 License: LGPL (>= 2)
+biocViews: Microarray, QualityControl
