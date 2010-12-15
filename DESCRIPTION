@@ -7,5 +7,5 @@ Author: Justin Harrington
 Maintainer: Gabriela Cohen-Freue <gcohen@mrl.ubc.ca> 
 Description: MDQC is a multivariate quality assessment method for microarrays based on quality control (QC) reports. The Mahalanobis distance of an array's quality attributes is used to measure the similarity of the quality of that array against the quality of the other arrays. Then, arrays with unusually high distances can be flagged as potentially low-quality.
 Depends: R (>= 2.2.1), cluster, MASS
-bioViews: Microarray,QualityControl
+bioViews: Microarray, QualityControl
 License: LGPL (>= 2)
